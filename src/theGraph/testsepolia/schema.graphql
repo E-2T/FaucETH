@@ -1,0 +1,19 @@
+type EventCreated @entity(immutable: true) {
+  id: Bytes!
+  name: String! # string
+  owner: Bytes! # address
+  whitelist: [Bytes!]! # address[]
+  withdrawLimit: BigInt! # uint256
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}
+
+type EventVisibilityChanged @entity(immutable: true) {
+  id: Bytes!
+  name: String! # string
+  value: Boolean! # bool
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}

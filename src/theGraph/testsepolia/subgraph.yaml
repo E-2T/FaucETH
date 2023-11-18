@@ -1,0 +1,27 @@
+specVersion: 0.0.5
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum
+    name: Container
+    network: sepolia
+    source:
+      address: "0x1e92A3fC29db58072360747F73C9387F89093Ff9"
+      abi: Container
+      startBlock: 4719386
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - EventCreated
+        - EventVisibilityChanged
+      abis:
+        - name: Container
+          file: ./abis/Container.json
+      eventHandlers:
+        - event: EventCreated(string,address,address[],uint256)
+          handler: handleEventCreated
+        - event: EventVisibilityChanged(string,bool)
+          handler: handleEventVisibilityChanged
+      file: ./src/container.ts
