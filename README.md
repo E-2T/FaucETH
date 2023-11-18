@@ -21,7 +21,7 @@ To address these challenges, we introduce Hack It Easy, a platform designed to s
 **Platform Functionality:** The platform serves as a pool where event organizers can add testnet tokens, and approved hackers can withdraw them effortlessly.
 
 ## How Hack It Easy Works
-**Event Creation:** Event organizers create a new event on the platform and choose the EVM chains they want to include in the event.
+**Event Creation:** Event organizers create a new event on the platform and choose the EVM chains they want to include in the pool.
 
 **Token Distribution:** Sponsors receive a unique code and use it to send testnet tokens to a designated pool. This ensures a secure and straightforward method for sponsors to contribute to the token pool.
 
