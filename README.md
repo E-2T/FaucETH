@@ -1,5 +1,5 @@
 # FaucETH
-***🏊‍♂ For a smooth swim into testnet pools.***
+***🏊‍♂🚰 For a smooth swim and to ensure you don't sink into testnet pools.***
 
 ## Problem 
 Participating in hackathons often involves the hassle of obtaining testnet tokens, leading to challenges such as latency, last-minute bounty additions,also means late-night token distribution, and the absence of designated individuals for distribution can hurt you poject.
