@@ -41,7 +41,20 @@ To address these challenges, we introduce FaucETH, a platform designed to stream
 ## Architecture 
 
 ## Future Developments 
-For future developments, FaucETH can be extended to non EVM chains as well as mainnets environments.
+- **Multi-Chain Support:** Extend FaucETH to support a wider range of blockchain networks beyond EVM chains. This could include compatibility with different blockchain protocols to accommodate diverse hackathon environments.
+
+- **Integration with Mainnets:** Explore the integration of FaucETH with mainnet environments, allowing for the management of real cryptocurrencies in addition to testnet tokens.
+
+- **Automated Token Distribution:** Introduce automation features for token distribution, reducing the manual workload for event organizers. This could involve smart contract functionalities that automatically distribute tokens based on predefined rules.
+
+- **User Feedback Mechanism:** Implement a feedback system within the platform to gather insights from users (hackers, sponsors, and organizers). This can help identify areas for improvement and ensure that FaucETH continues to meet the evolving needs of its users.
+
+- **Analytics and Reporting:** Incorporate analytics tools to provide event organizers with valuable insights into token usage, withdrawal patterns, and overall platform engagement. 
+
+- **Mobile Application:** Develop a mobile application for FaucETH to enhance accessibility for users on the go. This could include features for quick token requests, notifications, and event updates.
+
+- **Token Swap Functionality:** Explore the possibility of integrating a token swap functionality, allowing users to exchange testnet tokens from one blockchain for another within the FaucETH platform.
+
 
 ## Conclusions
 FaucETH revolutionizes the way testnet tokens are managed during hackathons, providing a stress-free and efficient solution for event organizers and hackers alike. By simplifying the token distribution process, the platform enhances the overall experience of hackathon participants, allowing them to concentrate on innovation and problem-solving.
