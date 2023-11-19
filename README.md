@@ -39,6 +39,11 @@ To address these challenges, we introduce FaucETH, a platform designed to stream
 - **Improved Collaboration:** Sponsors, organizers, and hackers can collaborate seamlessly within the platform.
 
 ## Architecture 
+We deployed smart contracts, written in Solidity, on the following EVM compatible testnet chains:
+
+- We used **TheGraph** for querying data on the backend without the need of querying it to the blockchain.
+Once the data is retrieved via GraphQL from a NextJS backend, it's shown on the frontend with React + Tailwind.
+
 
 ## Future Developments 
 - **Multi-Chain Support:** Extend FaucETH to support a wider range of blockchain networks beyond EVM chains. This could include compatibility with different blockchain protocols to accommodate diverse hackathon environments.
