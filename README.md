@@ -59,3 +59,6 @@ To address these challenges, we introduce FaucETH, a platform designed to stream
 ## Conclusions
 FaucETH revolutionizes the way testnet tokens are managed during hackathons, providing a stress-free and efficient solution for event organizers and hackers alike. By simplifying the token distribution process, the platform enhances the overall experience of hackathon participants, allowing them to concentrate on innovation and problem-solving.
 
+## Deck Presentation
+
+![pdf](docs/fauceth.pdf)
