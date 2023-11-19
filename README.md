@@ -8,7 +8,7 @@ This results in stress and time loss for hackers, hindering their focus on the a
 To address these challenges, we introduce FaucETH, a platform designed to streamline the process of obtaining and distributing testnet tokens during hackathons. This solution aims to provide both event organizers and participants with a user-friendly pool where they can efficiently manage testnet tokens.
 
 ## Pages
-![img](/docs/images/Istanbul.draw.io.png)
+![img](/docs/images/fauceth.png)
 
 ## Pain Points
 - **Latency:** Obtaining testnet tokens can be time-consuming, causing delays and hindering the hackers' ability to start working promptly.
