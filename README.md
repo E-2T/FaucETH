@@ -15,7 +15,7 @@ To address these challenges, we introduce FaucETH, a platform designed to stream
 
 - **Last-minute Bounty Addition:** Late-night or last-minute bounty additions create additional stress especially if bounties representatives go to sleep!
 
-- **Distribution Issues:** Lack of a streamlined process for sending and receiving tokens, especially during non-standard hours, leads to confusion and delays.
+- **Distribution Issues:** Lack of a streamlined process for requesting and receiving tokens, especially during non-standard hours, leads to confusion and delays.
 
 ## FaucETH Solution
 - **Purpose:** FaucETH addresses the challenges faced by hackathon participants in acquiring testnet tokens, ensuring a smoother experience.
